@@ -1,0 +1,66 @@
+[
+    {
+        "id":1,
+        "title":"無麩質莓果堅果塔   單顆",
+        "price":"125",
+        "thumbnailUrl":"https://www.kisekibakery.com.tw/upload/catalog_list_pic/twl_catalog_21f10_93js2uai9u.png",
+        "description": "充滿堅果香氣的堅果塔，採用蔓越莓乾、野生藍梅乾、杏仁果、核桃，與焦糖完美結合！"
+    },
+    {
+        "id":2,
+        "title":"可可榛果脆餅   6片入",
+        "price":"220",
+        "thumbnailUrl":"https://www.kisekibakery.com.tw/upload/catalog_list_pic/twl_catalog_19l30_nsb93hccgy.png",
+        "description": "入口的瞬間，就能享受到濃郁及略帶苦甜的可可與榛果交織的浪漫的交響樂~"
+    },
+    {
+        "id":3,
+        "title":"葡萄肉桂玉米脆餅   6片入",
+        "price":"220",
+        "thumbnailUrl":"https://www.kisekibakery.com.tw/upload/catalog_list_pic/twl_catalog_19l30_zvje7s8hih.png",
+        "description": "爽脆的玉米脆片搭配香甜葡萄乾再用些許肉桂點綴，讓人忍不住一口接一口!"
+    },
+    {
+        "id":4,
+        "title":"草莓雪球       15顆",
+        "price":"250",
+        "thumbnailUrl":"https://www.kisekibakery.com.tw/upload/catalog_list_pic/twl_catalog_19l30_u72cwr3rte.png",
+        "description": "酸甜的草莓做成可愛的雪球造型，讓人愛不釋手!"
+    },
+    {
+        "id":5,
+        "title":"宇治抹茶脆餅   6片入",
+        "price":"250",
+        "thumbnailUrl":"https://www.kisekibakery.com.tw/upload/catalog_list_pic/twl_catalog_19l30_5yjndkxxqm.png",
+        "description": "一入口就能享受到自日本宇治空運到台的抹茶濃郁香氣和順滑口感！"
+    },
+    {
+        "id":6,
+        "title":"原味杏仁脆餅   6片入",
+        "price":"220",
+        "thumbnailUrl":"https://www.kisekibakery.com.tw/upload/catalog_list_pic/twl_catalog_19l30_m88kyh3tci.png",
+        "description": "咬一口，清淡的杏仁香氣，隨著咬碎的餅乾，輕巧的滑入嘴裡"
+    },
+    {
+        "id":7,
+        "title":"野生藍莓脆餅   6片入",
+        "price":"240",
+        "thumbnailUrl":"https://www.kisekibakery.com.tw/product-detail/upload/catalog_b/twL_catalog_19L31_c92s4xukfh.jpg",
+        "description": "酸甜交織的野生藍莓混合著豆乳香氣，為你在舌梢帶來迷人的驚喜"
+    },
+    {
+        "id":8,
+        "title":"愛文芒果脆餅   6片入",
+        "price":"240",
+        "thumbnailUrl":"https://www.kisekibakery.com.tw/product/upload/catalog_list_pic/twl_catalog_19l31_46nesq5q7m.png",
+        "description": "愛文芒果的香氣交織著豆乳的濃郁，如同初戀般單純而美好!"
+    },
+    {
+        "id":9,
+        "title":"杏仁檸檬脆餅   6片入",
+        "price":"240",
+        "thumbnailUrl":"https://www.kisekibakery.com.tw/upload/catalog_list_pic/twl_catalog_19l31_nt8kb596ff.png",
+        "description": "檸檬的微酸在口裡漸漸擴散，清爽層次搭配一杯茶是最好的午後饗宴!"
+    }
+
+]
